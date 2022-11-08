@@ -11,6 +11,9 @@ Skills:  REACT / JS / HTML / CSS / REDUX / NODE / EXPRESS / SEQUELIZE
 - 🔭 I’m currently working on my own projects 
 
 
+contact: a.diez10371@gmail.com
+
+
 
 
 
