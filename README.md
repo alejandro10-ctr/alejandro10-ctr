@@ -12,7 +12,7 @@ Skills:  REACT / JS / HTML / CSS / REDUX / NODE / EXPRESS / SEQUELIZE
  
 
 
-contact: a.diez10371@gmail.com
+contacto: a.diez10371@gmail.com
 
 
 
