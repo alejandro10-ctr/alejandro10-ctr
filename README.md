@@ -1,6 +1,6 @@
 
 ###
-#### Development
+#### Development - Full Stack
 ![Development](https://img.freepik.com/vector-premium/codificacion-programacion-desarrollo-web-codigo-computadora-banner-futurista-computadora-portatil_3482-5572.jpg?w=900)
 
 
