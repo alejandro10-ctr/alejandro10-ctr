@@ -16,7 +16,6 @@ Skills:  REACT / JS / HTML / CSS / REDUX / NODE / EXPRESS / SEQUELIZE
 
 
 contacto: a.diez10371@gmail.com
-
 LinkedIn: https://www.linkedin.com/in/alejandro-d-106233158/
 
 
